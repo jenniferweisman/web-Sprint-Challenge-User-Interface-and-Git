@@ -54,10 +54,13 @@ a{
     margin-bottom: 5%;
 }
 }
-button{
+ button{
     background-color: white;
     border-radius: 12%;
     padding: .5rem;
+}
+.bottom{
+    margin-bottom: 5%
 }
 footer {
     width: 100%;
